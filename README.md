@@ -16,6 +16,7 @@
 
 
 ## Pseudocode
+```
 START
 
 INPUT tugas
@@ -42,7 +43,7 @@ OUTPUT "Nilai Akhir:", nilaiAkhir
 OUTPUT "Grade:", grade
 
 STOP
-
+```
 
 # Flowchart
 ![Flowchart](FlowchartNilaiGrade.png)
